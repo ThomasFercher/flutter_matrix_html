@@ -4,15 +4,15 @@ version: 1.2.0
 homepage: https://github.com/Sorunome/flutter_matrix_html
 
 environment:
-  sdk: ">=2.12.0 <3.0.0"
+  sdk: ">=3.0.0 <4.0.0"
 
 dependencies:
   html: ^0.15.0
   flutter:
     sdk: flutter
   cached_network_image: ^3.0.0
-  matrix_link_text: ^1.0.2
-  flutter_math_fork: ^0.6.3+1
+  matrix_link_text: ^2.0.0
+  flutter_math_fork: ^0.7.1
   flutter_highlight: ^0.7.0
   isolate: ^2.0.3
   highlight: ^0.7.0
